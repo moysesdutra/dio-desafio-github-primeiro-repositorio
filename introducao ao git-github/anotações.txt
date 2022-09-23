@@ -1,0 +1,2 @@
+teste de anotaçoes
+simulando a edição local de um arquivo em um repositorio
